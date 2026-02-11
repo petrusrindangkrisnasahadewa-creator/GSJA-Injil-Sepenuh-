@@ -1,0 +1,7 @@
+{
+  "name": "GSJA Injil Sepenuh - Church Information System",
+  "description": "A comprehensive church management system for members and administrators, featuring devotionals, schedules, QR-based attendance, and member management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
